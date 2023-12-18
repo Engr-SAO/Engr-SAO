@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Engr-SAO
 - 👀 I’m interested in embedded software development with STM32, ESP32 or FPGA
-- 🌱 I’m currently learning RISC-V
+- 🌱 I’m currently learning RISC-V, Photonics circuit design with KLayout an python
 - 💞️ I’m looking to collaborate on Embedded application
 - 
 
